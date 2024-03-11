@@ -1,0 +1,19 @@
+public class Hello_World {
+
+	public static void main(String[] args) {
+		float a=2F;
+		float b=24F;
+		float sayiTopla=a+b;
+		float cikarma=a-b;
+		float carpma=a*b;
+		float bolme=b/a;
+		    
+			System.out.println("a ve b toplami = "+ sayiTopla);
+			System.out.println("a ve b cikarma ="+ cikarma);
+			System.out.println("a ve b carpim ="+  carpma);
+			System.out.println("a ve b bolum="+bolme);
+			
+
+	}
+
+}
